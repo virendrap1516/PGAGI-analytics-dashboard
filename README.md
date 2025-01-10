@@ -4,11 +4,8 @@
 
 This repository contains the "Comprehensive Analytics Dashboard," developed as part of the PGAGI Front-End Developer Internship assignment. The dashboard offers an interactive, user-friendly interface, displaying data fetched from multiple APIs. It features advanced animations, responsive design, and a focus on performance optimization and state management.
 
-## Demo video
-[Demo Video Link](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/pgagi-demo-video.mp4).
 
 ## Features
-
 - **Weather Section**: Displays current weather and 7-day forecasts using the OpenWeatherMap API.
 - **News Section**: Fetches and categorizes the latest news using the NewsAPI.
 - **Stocks Section**: Provides real-time stock market data with detailed analysis using the Alpha Vantage API.
