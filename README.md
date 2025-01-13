@@ -93,22 +93,22 @@ This project is deployed on [Vercel](https://vercel.com). Access the live demo h
 ## Screenshots
 ![Home Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Home.png)
 
+### News Section  
+![News Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/News.png)  
+
 ### GitHub Section  
 ![GitHub Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Github.png)  
 
-### News Section  
-![News Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/News.png)  
+### TMDB Section  
+![TMDB Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Movies.png)  
 
 ### Stocks Section  
-![Stocks Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Stocks.png)  
-
-### TMDB Section  
-![TMDB Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Movies.png)  
+![Stocks Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Stocks.png)  
 
 ### Weather Section
 ![Weather Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Weather.png)  
 
 ### Spotify Section  
-![Spotify Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Spotify.png)  
+![Spotify Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Spotify.png)  
 
 ---
