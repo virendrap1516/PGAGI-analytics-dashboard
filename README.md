@@ -41,15 +41,11 @@ src/
 
 ## Installation Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MohamedAklamaash/PGAGI_Software_Intern.git
-   ```
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    ```bash
    cd PGAGI_Software_Intern
    ```
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
@@ -73,10 +69,8 @@ src/
 Create a `.env.local` file in the project root with the following variables:
 
 ```bash
-NEXT_PUBLIC_OPENCAGE_API_KEY=
 NEXT_PUBLIC_NEWSAPI_API_KEY=
 NEXT_PUBLIC_ALPHA_VANTAGE_API_KEY=
-NEXT_PUBLIC_TWELVE_DATA_API_KEY=
 NEXT_PUBLIC_FINNHUB_API_KEY=
 NEXT_PUBLIC_SPOTIFY_CLIENT_ID=
 NEXT_PUBLIC_SPOTIFY_CLIENT_SECRET=
