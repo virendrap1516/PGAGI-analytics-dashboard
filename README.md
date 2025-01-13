@@ -91,7 +91,7 @@ This project is deployed on [Vercel](https://vercel.com). Access the live demo h
 - **Real-Time Updates**: Live stock prices, breaking news, and weather updates via WebSockets.
 
 ## Screenshots
-![Home Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Home.png)
+![Home Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Home.png)
 
 ### Weather Section  
 ![Weather Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Weather.png)  
