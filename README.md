@@ -35,7 +35,7 @@ App/ – Next.js pages with dynamic routing.
 styles/ – Global styles and Tailwind configurations.
 store/ – State management setup (e.g., Redux slices).
 utils/ – Utility functions and helpers.
-Images/ – Github documentation
+Images/ – Github documentation.
 public/ – Static assets.
 
 
