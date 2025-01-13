@@ -83,7 +83,8 @@ NEXT_PUBLIC_TMDB_API_KEY=
 ## Deployment
 
 This project is deployed on [Vercel](https://vercel.com). 
-Deployment link - (https://pgagi-analytics-dashboard-iota.vercel.app/).
+
+Deployment link - https://pgagi-analytics-dashboard-iota.vercel.app/.
 
 ## Additional Features
 
