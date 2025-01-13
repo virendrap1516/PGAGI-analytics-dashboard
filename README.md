@@ -1,8 +1,8 @@
-# PGAGI Comprehensive Analytics Dashboard👨🏻‍💻
+# PGAGI Comprehensive Analytics Dashboard 👨🏻‍💻
 
-## Project Overview
+## Project Overview 📑
 
-This repository contains the "Comprehensive Analytics Dashboard," developed as part of the PGAGI Front-End Developer Internship assignment. The dashboard offers an interactive, user-friendly interface, displaying data fetched from multiple APIs. It features advanced animations, responsive design, and a focus on performance optimization and state management.👨‍💻
+📜 This repository contains the "Comprehensive Analytics Dashboard," developed as part of the PGAGI Front-End Developer Internship assignment. The dashboard offers an interactive, user-friendly interface, displaying data fetched from multiple APIs. It features advanced animations, responsive design, and a focus on performance optimization and state management.👨‍💻
 
 
 ## Features🛠️
