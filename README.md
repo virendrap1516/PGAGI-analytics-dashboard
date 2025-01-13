@@ -93,8 +93,8 @@ This project is deployed on [Vercel](https://vercel.com). Access the live demo h
 ## Screenshots
 ![Home Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Home.png)
 
-### Weather Section  
-![Weather Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Weather.png)  
+### GitHub Section  
+![GitHub Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Github.png)  
 
 ### News Section  
 ![News Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/News.png)  
@@ -105,8 +105,8 @@ This project is deployed on [Vercel](https://vercel.com). Access the live demo h
 ### TMDB Section  
 ![TMDB Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Movies.png)  
 
-### GitHub Section  
-![GitHub Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Github.png)  
+### Weather Section
+![Weather Section](https://github.com/virendrap1516/PGAGI-analytics-dashboard/blob/master/images/Weather.png)  
 
 ### Spotify Section  
 ![Spotify Section](https://github.com/MohamedAklamaash/PGAGI_Software_Intern/blob/main/images/Spotify.png)  
