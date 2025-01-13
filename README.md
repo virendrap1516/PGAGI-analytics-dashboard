@@ -29,6 +29,7 @@ This repository contains the "Comprehensive Analytics Dashboard," developed as p
 ## Project Structure
 
 ```bash
+
 Organize the project with a scalable folder structure:
 components/ – Reusable UI components.
 App/ – Next.js pages with dynamic routing.
@@ -37,7 +38,7 @@ store/ – State management setup (e.g., Redux slices).
 utils/ – Utility functions and helpers.
 Images/ – Github documentation.
 public/ – Static assets.
-
+ ```
 
 
 ## Installation Instructions
