@@ -86,10 +86,9 @@ This project is deployed on [Vercel](https://vercel.com).
 
 Deployment link - https://pgagi-analytics-dashboard-iota.vercel.app/.
 
-## Additional Features
+## Additional 
 
 - **Widget Customization**: Drag-and-drop widgets for personalized layouts.
-- **Localization**: Multi-language support using react-i18next.
 - **Real-Time Updates**: Live stock prices, breaking news, and weather updates via WebSockets.
 
 ## Screenshots
