@@ -1,23 +1,23 @@
-# PGAGI Comprehensive Analytics Dashboard
+# PGAGI Comprehensive Analytics Dashboard👨🏻‍💻
 
 ## Project Overview
 
-This repository contains the "Comprehensive Analytics Dashboard," developed as part of the PGAGI Front-End Developer Internship assignment. The dashboard offers an interactive, user-friendly interface, displaying data fetched from multiple APIs. It features advanced animations, responsive design, and a focus on performance optimization and state management.
+This repository contains the "Comprehensive Analytics Dashboard," developed as part of the PGAGI Front-End Developer Internship assignment. The dashboard offers an interactive, user-friendly interface, displaying data fetched from multiple APIs. It features advanced animations, responsive design, and a focus on performance optimization and state management.👨‍💻
 
 
-## Features
-- **Weather Section**: Displays current weather and 7-day forecasts using the OpenWeatherMap API.
-- **News Section**: Fetches and categorizes the latest news using the NewsAPI.
-- **Stocks Section**: Provides real-time stock market data with detailed analysis using the Alpha Vantage API.
-- **TMDB Section**: Displays trending movies, ratings, and user reviews using the TMDB API.
-- **GitHub Section**: Fetches and displays repository statistics, commit history, and contributor details using the GitHub API.
-- **Spotify Section**: Presents user listening statistics, top tracks, and playlists using the Spotify API.
-- **Advanced Animations**: Smooth transitions and engaging visuals with Framer Motion and CSS.
-- **Dark Mode**: Easily toggle between light and dark themes.
-- **Responsive Design**: Fully responsive across mobile, tablet, and desktop screens.
-- **Drag and Drop** : Ability to drag and drop between widgets
+## Features🛠️
+- **Weather Section**: Displays current weather and 7-day forecasts using the OpenWeatherMap API.🌦️
+- **News Section**: Fetches and categorizes the latest news using the NewsAPI.📣
+- **Stocks Section**: Provides real-time stock market data with detailed analysis using the Alpha Vantage API.📈
+- **TMDB Section**: Displays trending movies, ratings, and user reviews using the TMDB API.🍿🎥✮⋆˙
+- **GitHub Section**: Fetches and displays repository statistics, commit history, and contributor details using the GitHub API.👾
+- **Spotify Section**: Presents user listening statistics, top tracks, and playlists using the Spotify API.🟢ᯤ
+- **Advanced Animations**: Smooth transitions and engaging visuals with Framer Motion and CSS.🎞️
+- **Dark Mode**: Easily toggle between light and dark themes.🌑☀︎
+- **Responsive Design**: Fully responsive across mobile, tablet, and desktop screens.📱🖥️
+- **Drag and Drop** : Ability to drag and drop between widgets.⚙️
 
-## Technologies Used
+## Technologies Used ⚙️
 
 - **Framework**: Next.js  
 - **Language**: TypeScript  
