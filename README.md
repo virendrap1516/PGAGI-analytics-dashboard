@@ -1,5 +1,7 @@
 # PGAGI Comprehensive Analytics Dashboard 👨🏻‍💻
 
+https://www.loom.com/share/5553efb4f7474df082b5120393a3d62a
+
 ## Project Overview 📑
 
 📜 This repository contains the "Comprehensive Analytics Dashboard," developed as part of the PGAGI Front-End Developer Internship assignment. The dashboard offers an interactive, user-friendly interface, displaying data fetched from multiple APIs. It features advanced animations, responsive design, and a focus on performance optimization and state management.👨‍💻
